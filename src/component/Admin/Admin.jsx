@@ -23,6 +23,6 @@ const ObjCheck=(obj)=>{
 
 }
 const Admin = () => {
-  return <div></div>;
+  return <div><h1>hello</h1> </div>;
 };
 export default Admin;
